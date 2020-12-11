@@ -3,3 +3,5 @@
 *.twbr
 *.twbx
 /.ipynb_checkpoints/*.ipynb
+/.ipynb_checkpoints/*.ipynb
+/.ipynb_checkpoints/EDA-checkpoint.ipynb
